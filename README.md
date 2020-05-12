@@ -1,9 +1,19 @@
-In order to analyze each video, we need to go through a pipeline.
+This repo is used to store all the packages need to automaticly process a tobii folder.
 
-First, we need to use tobii_preprocessing.py script in the folder glassesCalibration.
+### Getting Started
+To get start, please first clone the repo to a local repository.
+`
+git clone https://github.com/gaoyuankidult/adaptive-map-game.git
+`
+
+#### Store your data in the ./tobii_file folder
+
+Please menualy copy all the content in the tobii folder that you want to analyze to the `./tobii_file` file.
+
+First, we need to use `tobii_preprocessing.py` script in the folder glassesCalibration.
 
 To do this, we have to
-'''
-python 'tobii_preprocessing.py' ../../tobii_file/ ../../data
-'''
-python tobii_preprocessing.py inputDir outputDir
+`
+python ./PreprocessingKit/glassesCalibration/gazeMappingPipeline/tobii_preprocessing.py ../../../tobii_file/ ../../../data
+`
+
