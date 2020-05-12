@@ -1,0 +1,1038 @@
+2020-02-24 10:36:36.932372
+START: 
+2020-02-24 10:36:37.582001
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+2020-02-24 10:36:37.700380
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+2020-02-24 10:36:37.826436
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+{"ts": -1}
+2020-02-24 10:36:39.366698
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 853736121, "s": 0, "gidx": 1454, "l": 125176, "gp": [0.2322, 0.2872]}
+{"ts": 853806699, "s": 0, "gy": [-3.78, -6.979, 0.475]}
+{"ts": 853797766, "s": 0, "ac": [-0.275, -10.21, 0.749]}
+{"ts": 853736121, "s": 0, "gidx": 1454, "pd": 6.71, "eye": "left"}
+{"ts": 853736121, "s": 0, "gidx": 1454, "pd": 6.43, "eye": "right"}
+2020-02-24 10:36:41.585226
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 856054795, "s": 0, "gidx": 1570, "l": 171218, "gp": [0.6543, 0.3675]}
+{"ts": 856111546, "s": 0, "gy": [-1.96, -7.003, 0.613]}
+{"ts": 856171975, "s": 0, "ac": [-0.157, -10.366, 0.96]}
+{"ts": 856074784, "s": 0, "gidx": 1571, "pd": 6.54, "eye": "left"}
+{"ts": 856054795, "s": 0, "gidx": 1570, "pd": 6.84, "eye": "right"}
+2020-02-24 10:36:42.816811
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 857413996, "s": 0, "gidx": 1638, "l": 146306, "gp": [0.2958, 0.2068]}
+{"ts": 857460963, "s": 0, "gy": [-5.04, 11.906, 1.815]}
+{"ts": 857450593, "s": 0, "ac": [-1.098, -10.469, 0.186]}
+{"ts": 857413996, "s": 0, "gidx": 1638, "pd": 6.31, "eye": "left"}
+{"ts": 857413996, "s": 0, "gidx": 1638, "pd": 6.08, "eye": "right"}
+2020-02-24 10:36:44.289130
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 858793213, "s": 0, "gidx": 1707, "l": 198120, "gp": [0.5992, 0.1522]}
+{"ts": 858957936, "s": 0, "gy": [-1.05, -21.788, -0.999]}
+{"ts": 858944944, "s": 0, "ac": [-0.039, -10.289, 0.297]}
+{"ts": 858793213, "s": 0, "gidx": 1707, "pd": 6.69, "eye": "left"}
+{"ts": 858793213, "s": 0, "gidx": 1707, "pd": 6.13, "eye": "right"}
+2020-02-24 10:36:47.819585
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 861991371, "s": 0, "gidx": 1867, "l": 164238, "gp": [0.1876, 0.2498]}
+{"ts": 862383063, "s": 0, "gy": [-10.36, 11.837, 5.428]}
+{"ts": 862362052, "s": 0, "ac": [0.392, -10.453, 0.547]}
+{"ts": 862131279, "s": 0, "gidx": 1874, "pd": 5.58, "eye": "left"}
+{"ts": 862271197, "s": 0, "gidx": 1881, "pd": 3.55, "eye": "right"}
+2020-02-24 10:37:00.433063
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 874963892, "s": 0, "gidx": 2516, "l": 120000, "gp": [0.2634, 0.384]}
+{"ts": 875102363, "s": 0, "gy": [-1.75, -1.562, -4.043]}
+{"ts": 875076341, "s": 0, "ac": [-0.667, -10.157, 0.001]}
+{"ts": 874983880, "s": 0, "gidx": 2517, "pd": 6.4, "eye": "left"}
+{"ts": 874963892, "s": 0, "gidx": 2516, "pd": 6.96, "eye": "right"}
+2020-02-24 10:37:26.726458
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 900988881, "s": 0, "gidx": 3818, "l": 147685, "gp": [0.4744, 0.9987]}
+{"ts": 901361700, "s": 0, "gy": [5.11, -6.605, 1.181]}
+{"ts": 901342487, "s": 0, "ac": [-1.098, -9.227, 3.989]}
+{"ts": 901228739, "s": 0, "gidx": 3830, "pd": 4.59, "eye": "left"}
+{"ts": 901208764, "s": 0, "gidx": 3829, "pd": 4.97, "eye": "right"}
+2020-02-24 10:37:46.044665
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 920397688, "s": 0, "gidx": 4789, "l": 148454, "gp": [0.5576, 0.1946]}
+{"ts": 920562079, "s": 0, "gy": [-0.7, -6.232, 1.886]}
+{"ts": 920540798, "s": 0, "ac": [-0.196, -10.444, 0.27]}
+{"ts": 920397688, "s": 0, "gidx": 4789, "pd": 5.91, "eye": "left"}
+{"ts": 920397688, "s": 0, "gidx": 4789, "pd": 5.21, "eye": "right"}
+2020-02-24 10:37:53.074588
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 927353684, "s": 0, "gidx": 5137, "l": 98128, "gp": [0.505, 0.1746]}
+{"ts": 927481412, "s": 0, "gy": [-11.76, -0.275, 2.368]}
+{"ts": 927347665, "s": 0, "ac": [0.785, -10.105, 1.285]}
+{"ts": 927373666, "s": 0, "gidx": 5138, "pd": 5.23, "eye": "left"}
+{"ts": 927353684, "s": 0, "gidx": 5137, "pd": 5.47, "eye": "right"}
+2020-02-24 10:38:02.451673
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 937008095, "s": 0, "gidx": 5620, "l": 175956, "gp": [0.3686, 0.0846]}
+{"ts": 937114550, "s": 0, "gy": [-2.59, -5.316, -0.084]}
+{"ts": 937094100, "s": 0, "ac": [0.235, -10.18, 1.71]}
+{"ts": 937008095, "s": 0, "gidx": 5620, "pd": 5.09, "eye": "left"}
+{"ts": 937028078, "s": 0, "gidx": 5621, "pd": 5.36, "eye": "right"}
+2020-02-24 10:38:04.094569
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 938467335, "s": 0, "gidx": 5693, "l": 231090, "gp": [0.7604, 0.8318]}
+{"ts": 938600458, "s": 0, "gy": [-1.47, -3.982, 0.009]}
+{"ts": 938591231, "s": 0, "ac": [0.235, -10.105, 1.962]}
+{"ts": 938547206, "s": 0, "gidx": 5697, "pd": 4.91, "eye": "left"}
+{"ts": 938467335, "s": 0, "gidx": 5693, "pd": 5.21, "eye": "right"}
+2020-02-24 10:38:15.428807
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 949940629, "s": 0, "gidx": 6267, "l": 211775, "gp": [0.408, 0.1418]}
+{"ts": 950092139, "s": 0, "gy": [-2.8, -6.386, 1.148]}
+{"ts": 950058117, "s": 0, "ac": [0.392, -10.189, 1.31]}
+{"ts": 949940629, "s": 0, "gidx": 6267, "pd": 4.92, "eye": "left"}
+{"ts": 949940629, "s": 0, "gidx": 6267, "pd": 5.41, "eye": "right"}
+2020-02-24 10:38:31.407364
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 966051329, "s": 0, "gidx": 7073, "l": 136598, "gp": [0.4196, 0.1181]}
+{"ts": 966137258, "s": 0, "gy": [-2.94, -6.293, 1.023]}
+{"ts": 966122856, "s": 0, "ac": [0.235, -10.241, 1.381]}
+{"ts": 966051329, "s": 0, "gidx": 7073, "pd": 5.08, "eye": "left"}
+{"ts": 966051329, "s": 0, "gidx": 7073, "pd": 5.43, "eye": "right"}
+2020-02-24 10:38:37.608802
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 972167779, "s": 0, "gidx": 7379, "l": 138373, "gp": [0.6768, 0.8949]}
+{"ts": 972316390, "s": 0, "gy": [-1.19, -7.153, 0.658]}
+{"ts": 972297696, "s": 0, "ac": [0.314, -10.055, 2.131]}
+{"ts": 972187789, "s": 0, "gidx": 7380, "pd": 5.14, "eye": "left"}
+{"ts": 972167779, "s": 0, "gidx": 7379, "pd": 5.42, "eye": "right"}
+2020-02-24 10:38:41.044051
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 975585809, "s": 0, "gidx": 7550, "l": 113653, "gp": [0.4515, 0.1711]}
+{"ts": 975587328, "s": 0, "gy": [2.31, -12.027, 2.5]}
+{"ts": 975583390, "s": 0, "ac": [0.667, -9.991, 1.544]}
+{"ts": 975585809, "s": 0, "gidx": 7550, "pd": 4.66, "eye": "left"}
+{"ts": 975585809, "s": 0, "gidx": 7550, "pd": 5.08, "eye": "right"}
+2020-02-24 10:38:43.789234
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 978344204, "s": 0, "gidx": 7688, "l": 104282, "gp": [0.7023, 0.8972]}
+{"ts": 978447052, "s": 0, "gy": [-6.65, -6.337, 3.289]}
+{"ts": 978438395, "s": 0, "ac": [0.196, -10.212, 2.342]}
+{"ts": 978344204, "s": 0, "gidx": 7688, "pd": 5.31, "eye": "left"}
+{"ts": 978344204, "s": 0, "gidx": 7688, "pd": 5.45, "eye": "right"}
+2020-02-24 10:38:45.525614
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 980003253, "s": 0, "gidx": 7771, "l": 205487, "gp": [0.3819, 0.0661]}
+{"ts": 980145056, "s": 0, "gy": [-1.33, -6.054, 0.07]}
+{"ts": 980121335, "s": 0, "ac": [0.196, -10.141, 1.717]}
+{"ts": 980003253, "s": 0, "gidx": 7771, "pd": 5.07, "eye": "left"}
+{"ts": 980003253, "s": 0, "gidx": 7771, "pd": 5.1, "eye": "right"}
+2020-02-24 10:38:51.147109
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 985380132, "s": 0, "gidx": 8040, "l": 111323, "gp": [0.4242, 0.7319]}
+{"ts": 985437959, "s": 0, "gy": [-28.84, 3.416, 8.848]}
+{"ts": 985420073, "s": 0, "ac": [0.628, -10.009, 2.099]}
+{"ts": 985280220, "s": 0, "gidx": 8035, "pd": 3.74, "eye": "left"}
+{"ts": 985380132, "s": 0, "gidx": 8040, "pd": 3.33, "eye": "right"}
+2020-02-24 10:39:00.985211
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 995294420, "s": 0, "gidx": 8536, "l": 138746, "gp": [0.4154, 0.2449]}
+{"ts": 995357745, "s": 0, "gy": [-3.29, -3.811, 3.877]}
+{"ts": 995206291, "s": 0, "ac": [0.235, -10.075, 2.246]}
+{"ts": 995294420, "s": 0, "gidx": 8536, "pd": 4.5, "eye": "left"}
+{"ts": 995294420, "s": 0, "gidx": 8536, "pd": 5.16, "eye": "right"}
+2020-02-24 10:39:20.738717
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1015582676, "s": 0, "gidx": 9551, "l": 139461, "gp": [0.6619, 0.9686]}
+{"ts": 1015689374, "s": 0, "gy": [-3.5, -3.232, 0.994]}
+{"ts": 1015668696, "s": 0, "ac": [0.078, -10.032, 2.453]}
+{"ts": 1015602656, "s": 0, "gidx": 9552, "pd": 5.6, "eye": "left"}
+{"ts": 1015602656, "s": 0, "gidx": 9552, "pd": 5.7, "eye": "right"}
+2020-02-24 10:39:22.083734
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1016901911, "s": 0, "gidx": 9617, "l": 167608, "gp": [0.6965, 0.7764]}
+{"ts": 1017024746, "s": 0, "gy": [-3.29, -8.11, 0.845]}
+{"ts": 1017015919, "s": 0, "ac": [0.314, -9.912, 2.674]}
+{"ts": 1016921891, "s": 0, "gidx": 9618, "pd": 4.78, "eye": "left"}
+{"ts": 1016921891, "s": 0, "gidx": 9618, "pd": 5.2, "eye": "right"}
+2020-02-24 10:39:24.095554
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1018720878, "s": 0, "gidx": 9708, "l": 112648, "gp": [0.64, 0.7949]}
+{"ts": 1018792816, "s": 0, "gy": [-7.0, 4.119, -6.026]}
+{"ts": 1018774088, "s": 0, "ac": [0.431, -9.98, 2.383]}
+{"ts": 1018720878, "s": 0, "gidx": 9708, "pd": 5.17, "eye": "left"}
+{"ts": 1018720878, "s": 0, "gidx": 9708, "pd": 5.48, "eye": "right"}
+2020-02-24 10:39:25.380204
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1019700308, "s": 0, "gidx": 9757, "l": 137521, "gp": [0.5845, 0.5505]}
+{"ts": 1019762966, "s": 0, "gy": [-3.92, -20.331, 8.072]}
+{"ts": 1019750638, "s": 0, "ac": [-0.314, -9.093, 4.81]}
+{"ts": 1019720289, "s": 0, "gidx": 9758, "pd": 5.04, "eye": "left"}
+{"ts": 1019700308, "s": 0, "gidx": 9757, "pd": 5.24, "eye": "right"}
+2020-02-24 10:39:27.698467
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1022318791, "s": 0, "gidx": 9888, "l": 214320, "gp": [0.6441, 0.8069]}
+{"ts": 1022489050, "s": 0, "gy": [0.98, 1.414, -7.214]}
+{"ts": 1022476282, "s": 0, "ac": [-0.902, -9.923, 2.512]}
+{"ts": 1022318791, "s": 0, "gidx": 9888, "pd": 5.57, "eye": "left"}
+{"ts": 1022318791, "s": 0, "gidx": 9888, "pd": 5.65, "eye": "right"}
+2020-02-24 10:39:28.647002
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1023338187, "s": 0, "gidx": 9939, "l": 95254, "gp": [0.8103, 0.7724]}
+{"ts": 1023297097, "s": 0, "gy": [-2.24, -6.97, 0.832]}
+{"ts": 1023292754, "s": 0, "ac": [-0.588, -9.975, 2.583]}
+{"ts": 1023338187, "s": 0, "gidx": 9939, "pd": 5.05, "eye": "left"}
+{"ts": 1023338187, "s": 0, "gidx": 9939, "pd": 5.18, "eye": "right"}
+2020-02-24 10:39:30.046382
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1024497523, "s": 0, "gidx": 9997, "l": 125218, "gp": [0.6891, 0.8114]}
+{"ts": 1024543254, "s": 0, "gy": [-2.17, -4.882, 0.276]}
+{"ts": 1024516195, "s": 0, "ac": [-0.157, -9.809, 2.771]}
+{"ts": 1024517503, "s": 0, "gidx": 9998, "pd": 5.04, "eye": "left"}
+{"ts": 1024497523, "s": 0, "gidx": 9997, "pd": 5.2, "eye": "right"}
+2020-02-24 10:39:33.284672
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1027875557, "s": 0, "gidx": 10166, "l": 119071, "gp": [0.647, 0.8765]}
+{"ts": 1028002794, "s": 0, "gy": [-2.73, -6.155, 1.047]}
+{"ts": 1027980932, "s": 0, "ac": [-0.039, -9.903, 2.396]}
+{"ts": 1027875557, "s": 0, "gidx": 10166, "pd": 5.42, "eye": "left"}
+{"ts": 1027875557, "s": 0, "gidx": 10166, "pd": 5.38, "eye": "right"}
+2020-02-24 10:39:36.558428
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1031333556, "s": 0, "gidx": 10339, "l": 216553, "gp": [0.6249, 0.8366]}
+{"ts": 1031487983, "s": 0, "gy": [-3.85, -8.11, 0.845]}
+{"ts": 1031420719, "s": 0, "ac": [-0.039, -9.964, 2.744]}
+{"ts": 1031353537, "s": 0, "gidx": 10340, "pd": 5.4, "eye": "left"}
+{"ts": 1031353537, "s": 0, "gidx": 10340, "pd": 5.47, "eye": "right"}
+2020-02-24 10:39:37.292757
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1032153083, "s": 0, "gidx": 10380, "l": 149529, "gp": [0.6216, 0.8521]}
+{"ts": 1032258028, "s": 0, "gy": [-2.52, -7.104, 1.591]}
+{"ts": 1032231954, "s": 0, "ac": [0.0, -9.859, 2.603]}
+{"ts": 1032153083, "s": 0, "gidx": 10380, "pd": 5.29, "eye": "left"}
+{"ts": 1032153083, "s": 0, "gidx": 10380, "pd": 5.29, "eye": "right"}
+2020-02-24 10:39:37.930036
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1032812719, "s": 0, "gidx": 10413, "l": 104303, "gp": [0.2976, 0.0873]}
+{"ts": 1032981843, "s": 0, "gy": [-6.09, -6.618, 0.041]}
+{"ts": 1032916407, "s": 0, "ac": [0.039, -10.005, 2.299]}
+{"ts": 1032832700, "s": 0, "gidx": 10414, "pd": 4.99, "eye": "left"}
+{"ts": 1032732756, "s": 0, "gidx": 10409, "pd": 5.31, "eye": "right"}
+2020-02-24 10:39:38.118077
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1032952630, "s": 0, "gidx": 10420, "l": 192633, "gp": [0.3609, 0.0815]}
+{"ts": 1033055415, "s": 0, "gy": [-4.62, -5.892, 1.165]}
+{"ts": 1033043547, "s": 0, "ac": [0.0, -9.896, 2.358]}
+{"ts": 1032972619, "s": 0, "gidx": 10421, "pd": 4.96, "eye": "left"}
+{"ts": 1032952630, "s": 0, "gidx": 10420, "pd": 5.06, "eye": "right"}
+2020-02-24 10:39:38.683403
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1033552281, "s": 0, "gidx": 10450, "l": 108027, "gp": [0.378, 0.0145]}
+{"ts": 1033593373, "s": 0, "gy": [-2.87, -5.79, 1.396]}
+{"ts": 1033574362, "s": 0, "ac": [0.0, -10.048, 2.092]}
+{"ts": 1033552281, "s": 0, "gidx": 10450, "pd": 5.13, "eye": "left"}
+{"ts": 1033552281, "s": 0, "gidx": 10450, "pd": 4.88, "eye": "right"}
+2020-02-24 10:39:39.107276
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1033932059, "s": 0, "gidx": 10469, "l": 145882, "gp": [0.6856, 0.8]}
+{"ts": 1034035925, "s": 0, "gy": [3.78, -10.461, 4.908]}
+{"ts": 1034008744, "s": 0, "ac": [-0.118, -9.962, 2.506]}
+{"ts": 1033952037, "s": 0, "gidx": 10470, "pd": 5.2, "eye": "left"}
+{"ts": 1033932059, "s": 0, "gidx": 10469, "pd": 4.3, "eye": "right"}
+2020-02-24 10:39:39.792991
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1034531711, "s": 0, "gidx": 10499, "l": 153408, "gp": [0.6897, 0.8857]}
+{"ts": 1034647853, "s": 0, "gy": [-0.35, -5.584, 1.432]}
+{"ts": 1034673171, "s": 0, "ac": [-0.118, -9.873, 2.68]}
+{"ts": 1034531711, "s": 0, "gidx": 10499, "pd": 5.1, "eye": "left"}
+{"ts": 1034531711, "s": 0, "gidx": 10499, "pd": 5.38, "eye": "right"}
+2020-02-24 10:39:40.112398
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1034891504, "s": 0, "gidx": 10517, "l": 129431, "gp": [0.6387, 0.8799]}
+{"ts": 1034964290, "s": 0, "gy": [-4.62, -5.138, 0.516]}
+{"ts": 1034950620, "s": 0, "ac": [0.039, -10.027, 2.653]}
+{"ts": 1034891504, "s": 0, "gidx": 10517, "pd": 5.04, "eye": "left"}
+{"ts": 1034891504, "s": 0, "gidx": 10517, "pd": 5.3, "eye": "right"}
+2020-02-24 10:39:40.745873
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1035471167, "s": 0, "gidx": 10546, "l": 120416, "gp": [0.6931, 0.8858]}
+{"ts": 1035502365, "s": 0, "gy": [0.07, -7.538, 2.438]}
+{"ts": 1035491483, "s": 0, "ac": [0.0, -10.002, 2.737]}
+{"ts": 1035451188, "s": 0, "gidx": 10545, "pd": 5.1, "eye": "left"}
+{"ts": 1035471167, "s": 0, "gidx": 10546, "pd": 5.27, "eye": "right"}
+2020-02-24 10:39:41.138339
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1035770983, "s": 0, "gidx": 10561, "l": 129468, "gp": [0.7002, 0.8902]}
+{"ts": 1035911862, "s": 0, "gy": [-2.03, -6.468, 1.205]}
+{"ts": 1035892881, "s": 0, "ac": [0.0, -9.866, 2.642]}
+{"ts": 1035691050, "s": 0, "gidx": 10557, "pd": 5.16, "eye": "left"}
+{"ts": 1035770983, "s": 0, "gidx": 10561, "pd": 5.29, "eye": "right"}
+2020-02-24 10:39:41.504108
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1036190751, "s": 0, "gidx": 10582, "l": 119429, "gp": [0.6989, 0.8757]}
+{"ts": 1036289818, "s": 0, "gy": [-1.89, -7.035, 1.603]}
+{"ts": 1036303219, "s": 0, "ac": [0.039, -9.873, 2.68]}
+{"ts": 1035691050, "s": 0, "gidx": 10557, "pd": 5.16, "eye": "left"}
+{"ts": 1036190751, "s": 0, "gidx": 10582, "pd": 5.3, "eye": "right"}
+2020-02-24 10:39:41.858617
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1036490565, "s": 0, "gidx": 10597, "l": 134496, "gp": [0.6994, 0.9017]}
+{"ts": 1036593916, "s": 0, "gy": [-2.66, -5.924, 0.946]}
+{"ts": 1036567065, "s": 0, "ac": [-0.039, -9.88, 2.719]}
+{"ts": 1036510573, "s": 0, "gidx": 10598, "pd": 5.25, "eye": "left"}
+{"ts": 1036490565, "s": 0, "gidx": 10597, "pd": 5.36, "eye": "right"}
+2020-02-24 10:39:42.418543
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1037050249, "s": 0, "gidx": 10625, "l": 126356, "gp": [0.7204, 0.9129]}
+{"ts": 1037118796, "s": 0, "gy": [-0.42, -7.128, 1.728]}
+{"ts": 1037098047, "s": 0, "ac": [-0.039, -9.802, 2.733]}
+{"ts": 1037050249, "s": 0, "gidx": 10625, "pd": 5.08, "eye": "left"}
+{"ts": 1037050249, "s": 0, "gidx": 10625, "pd": 5.37, "eye": "right"}
+2020-02-24 10:39:42.675486
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1037250143, "s": 0, "gidx": 10635, "l": 125742, "gp": [0.7242, 0.907]}
+{"ts": 1037265781, "s": 0, "gy": [-2.52, -7.25, 1.209]}
+{"ts": 1037246170, "s": 0, "ac": [-0.039, -9.75, 2.662]}
+{"ts": 1037070230, "s": 0, "gidx": 10626, "pd": 5.04, "eye": "left"}
+{"ts": 1037270124, "s": 0, "gidx": 10636, "pd": 5.39, "eye": "right"}
+2020-02-24 10:39:43.163350
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1037689900, "s": 0, "gidx": 10657, "l": 169078, "gp": [0.6394, 0.8889]}
+{"ts": 1037814136, "s": 0, "gy": [-2.8, -9.131, 3.01]}
+{"ts": 1037799831, "s": 0, "ac": [-0.078, -9.957, 2.705]}
+{"ts": 1037689900, "s": 0, "gidx": 10657, "pd": 4.92, "eye": "left"}
+{"ts": 1037689900, "s": 0, "gidx": 10657, "pd": 5.28, "eye": "right"}
+2020-02-24 10:39:43.306943
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1037829808, "s": 0, "gidx": 10664, "l": 158107, "gp": [0.6765, 0.8671]}
+{"ts": 1037951888, "s": 0, "gy": [-1.82, -4.813, 1.497]}
+{"ts": 1037938258, "s": 0, "ac": [0.078, -9.834, 2.687]}
+{"ts": 1037809800, "s": 0, "gidx": 10663, "pd": 4.85, "eye": "left"}
+{"ts": 1037849795, "s": 0, "gidx": 10665, "pd": 5.21, "eye": "right"}
+2020-02-24 10:39:44.889544
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1039528820, "s": 0, "gidx": 10749, "l": 144367, "gp": [0.7496, 0.7487]}
+{"ts": 1039600108, "s": 0, "gy": [-2.45, -8.373, 1.935]}
+{"ts": 1039581452, "s": 0, "ac": [0.078, -9.823, 2.849]}
+{"ts": 1039548800, "s": 0, "gidx": 10750, "pd": 5.02, "eye": "left"}
+{"ts": 1039528820, "s": 0, "gidx": 10749, "pd": 5.32, "eye": "right"}
+2020-02-24 10:39:45.295027
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1039948588, "s": 0, "gidx": 10770, "l": 97005, "gp": [0.7074, 0.8932]}
+{"ts": 1040176432, "s": 0, "gy": [-2.8, -5.324, 0.767]}
+{"ts": 1040149890, "s": 0, "ac": [0.0, -9.816, 2.81]}
+{"ts": 1039948588, "s": 0, "gidx": 10770, "pd": 4.88, "eye": "left"}
+{"ts": 1039948588, "s": 0, "gidx": 10770, "pd": 5.05, "eye": "right"}
+2020-02-24 10:39:45.784605
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1040388314, "s": 0, "gidx": 10792, "l": 239188, "gp": [0.6858, 0.9003]}
+{"ts": 1040566302, "s": 0, "gy": [-3.57, -8.604, 2.037]}
+{"ts": 1040562546, "s": 0, "ac": [0.0, -9.866, 2.642]}
+{"ts": 1040408302, "s": 0, "gidx": 10793, "pd": 4.9, "eye": "left"}
+{"ts": 1040388314, "s": 0, "gidx": 10792, "pd": 5.04, "eye": "right"}
+2020-02-24 10:39:46.090957
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1040648161, "s": 0, "gidx": 10805, "l": 184389, "gp": [0.6871, 0.8979]}
+{"ts": 1040833684, "s": 0, "gy": [-1.4, -3.078, 0.524]}
+{"ts": 1040828228, "s": 0, "ac": [0.078, -9.834, 2.687]}
+{"ts": 1040668141, "s": 0, "gidx": 10806, "pd": 4.96, "eye": "left"}
+{"ts": 1040648161, "s": 0, "gidx": 10805, "pd": 5.05, "eye": "right"}
+2020-02-24 10:39:46.806787
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1041287813, "s": 0, "gidx": 10837, "l": 101865, "gp": [0.2994, 0.0147]}
+{"ts": 1041392636, "s": 0, "gy": [-6.65, -4.018, 1.424]}
+{"ts": 1041380641, "s": 0, "ac": [0.078, -9.989, 2.66]}
+{"ts": 1041287813, "s": 0, "gidx": 10837, "pd": 4.88, "eye": "left"}
+{"ts": 1041287813, "s": 0, "gidx": 10837, "pd": 4.95, "eye": "right"}
+2020-02-24 10:39:48.661385
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1043186710, "s": 0, "gidx": 10932, "l": 108730, "gp": [0.7037, 0.8802]}
+{"ts": 1043290587, "s": 0, "gy": [2.59, -9.225, 1.927]}
+{"ts": 1043288137, "s": 0, "ac": [0.039, -9.898, 2.596]}
+{"ts": 1043186710, "s": 0, "gidx": 10932, "pd": 5.29, "eye": "left"}
+{"ts": 1043186710, "s": 0, "gidx": 10932, "pd": 5.54, "eye": "right"}
+2020-02-24 10:39:50.937812
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1045485376, "s": 0, "gidx": 11047, "l": 136846, "gp": [0.6408, 0.6574]}
+{"ts": 1045593444, "s": 0, "gy": [4.97, -16.685, 10.776]}
+{"ts": 1045572720, "s": 0, "ac": [0.157, -9.584, 3.528]}
+{"ts": 1045505356, "s": 0, "gidx": 11048, "pd": 4.56, "eye": "left"}
+{"ts": 1045485376, "s": 0, "gidx": 11047, "pd": 4.84, "eye": "right"}
+2020-02-24 10:39:52.310661
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1046924544, "s": 0, "gidx": 11119, "l": 125687, "gp": [0.5677, 0.5103]}
+{"ts": 1047068880, "s": 0, "gy": [-8.47, -4.574, 2.961]}
+{"ts": 1047046451, "s": 0, "ac": [0.118, -9.461, 4.187]}
+{"ts": 1046944518, "s": 0, "gidx": 11120, "pd": 4.95, "eye": "left"}
+{"ts": 1046924544, "s": 0, "gidx": 11119, "pd": 5.3, "eye": "right"}
+2020-02-24 10:39:54.444278
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1048983337, "s": 0, "gidx": 11222, "l": 190246, "gp": [0.5268, 0.5318]}
+{"ts": 1049099888, "s": 0, "gy": [-16.94, -5.904, 3.65]}
+{"ts": 1049083281, "s": 0, "ac": [0.0, -10.091, 4.594]}
+{"ts": 1048983337, "s": 0, "gidx": 11222, "pd": 5.13, "eye": "left"}
+{"ts": 1048983337, "s": 0, "gidx": 11222, "pd": 5.2, "eye": "right"}
+2020-02-24 10:39:56.463213
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1051122106, "s": 0, "gidx": 11329, "l": 175989, "gp": [0.4095, 0.1401]}
+{"ts": 1051226510, "s": 0, "gy": [2.17, -11.78, 0.695]}
+{"ts": 1051212470, "s": 0, "ac": [0.118, -9.982, 1.267]}
+{"ts": 1051162071, "s": 0, "gidx": 11331, "pd": 5.08, "eye": "left"}
+{"ts": 1051122106, "s": 0, "gidx": 11329, "pd": 5.42, "eye": "right"}
+2020-02-24 10:39:57.884136
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1052581246, "s": 0, "gidx": 11402, "l": 164054, "gp": [0.628, 0.8165]}
+{"ts": 1052669947, "s": 0, "gy": [-1.12, -5.665, -0.928]}
+{"ts": 1052646128, "s": 0, "ac": [0.039, -9.88, 2.719]}
+{"ts": 1052581246, "s": 0, "gidx": 11402, "pd": 5.04, "eye": "left"}
+{"ts": 1052581246, "s": 0, "gidx": 11402, "pd": 5.16, "eye": "right"}
+2020-02-24 10:39:58.741380
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1053440750, "s": 0, "gidx": 11445, "l": 122787, "gp": [0.6912, 0.825]}
+{"ts": 1053464253, "s": 0, "gy": [-1.12, -5.304, -0.153]}
+{"ts": 1053450855, "s": 0, "ac": [0.039, -9.827, 2.649]}
+{"ts": 1053440750, "s": 0, "gidx": 11445, "pd": 5.24, "eye": "left"}
+{"ts": 1053440750, "s": 0, "gidx": 11445, "pd": 5.27, "eye": "right"}
+2020-02-24 10:40:01.140786
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1055759425, "s": 0, "gidx": 11561, "l": 123204, "gp": [0.6736, 0.6711]}
+{"ts": 1055819643, "s": 0, "gy": [12.81, -21.649, 3.859]}
+{"ts": 1055786400, "s": 0, "ac": [-0.392, -10.18, 2.387]}
+{"ts": 1055779401, "s": 0, "gidx": 11562, "pd": 4.87, "eye": "left"}
+{"ts": 1055759425, "s": 0, "gidx": 11561, "pd": 3.91, "eye": "right"}
+2020-02-24 10:40:02.517370
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1057158593, "s": 0, "gidx": 11631, "l": 133032, "gp": [0.6399, 0.7654]}
+{"ts": 1057299811, "s": 0, "gy": [-3.57, -4.059, -0.36]}
+{"ts": 1057281070, "s": 0, "ac": [-0.275, -9.714, 2.908]}
+{"ts": 1057178599, "s": 0, "gidx": 11632, "pd": 4.98, "eye": "left"}
+{"ts": 1057158593, "s": 0, "gidx": 11631, "pd": 5.23, "eye": "right"}
+2020-02-24 10:40:03.840175
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1058597785, "s": 0, "gidx": 11703, "l": 151421, "gp": [0.8705, 0.8249]}
+{"ts": 1058674828, "s": 0, "gy": [1.05, -7.789, 2.252]}
+{"ts": 1058657625, "s": 0, "ac": [-0.118, -9.734, 3.024]}
+{"ts": 1058597785, "s": 0, "gidx": 11703, "pd": 4.92, "eye": "left"}
+{"ts": 1058597785, "s": 0, "gidx": 11703, "pd": 5.0, "eye": "right"}
+2020-02-24 10:40:04.461582
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1059217418, "s": 0, "gidx": 11734, "l": 113026, "gp": [0.8815, 0.8274]}
+{"ts": 1059228817, "s": 0, "gy": [-3.92, -5.429, 0.962]}
+{"ts": 1059208464, "s": 0, "ac": [-0.078, -9.702, 3.069]}
+{"ts": 1059217418, "s": 0, "gidx": 11734, "pd": 4.76, "eye": "left"}
+{"ts": 1059217418, "s": 0, "gidx": 11734, "pd": 5.08, "eye": "right"}
+2020-02-24 10:40:05.533350
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1060256826, "s": 0, "gidx": 11786, "l": 171610, "gp": [0.6319, 0.7907]}
+{"ts": 1060373358, "s": 0, "gy": [-2.03, -8.118, 1.696]}
+{"ts": 1060358580, "s": 0, "ac": [0.078, -9.773, 3.017]}
+{"ts": 1060256826, "s": 0, "gidx": 11786, "pd": 5.16, "eye": "left"}
+{"ts": 1060256826, "s": 0, "gidx": 11786, "pd": 5.36, "eye": "right"}
+2020-02-24 10:40:06.032970
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1060756534, "s": 0, "gidx": 11811, "l": 132351, "gp": [0.8674, 0.8281]}
+{"ts": 1060786093, "s": 0, "gy": [-3.15, -6.273, 1.311]}
+{"ts": 1060764002, "s": 0, "ac": [0.0, -9.759, 2.939]}
+{"ts": 1060776515, "s": 0, "gidx": 11812, "pd": 4.84, "eye": "left"}
+{"ts": 1060756534, "s": 0, "gidx": 11811, "pd": 5.28, "eye": "right"}
+2020-02-24 10:40:07.120833
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1061795909, "s": 0, "gidx": 11863, "l": 178852, "gp": [0.6421, 0.805]}
+{"ts": 1061941412, "s": 0, "gy": [-4.83, -6.354, 1.367]}
+{"ts": 1061928444, "s": 0, "ac": [0.0, -9.896, 3.035]}
+{"ts": 1061795909, "s": 0, "gidx": 11863, "pd": 5.06, "eye": "left"}
+{"ts": 1061795909, "s": 0, "gidx": 11863, "pd": 5.25, "eye": "right"}
+2020-02-24 10:40:07.707162
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1062415573, "s": 0, "gidx": 11894, "l": 88333, "gp": [0.3705, 0.07]}
+{"ts": 1062511794, "s": 0, "gy": [-3.85, -6.893, 1.201]}
+{"ts": 1062494784, "s": 0, "ac": [-0.196, -10.121, 1.601]}
+{"ts": 1062415573, "s": 0, "gidx": 11894, "pd": 4.94, "eye": "left"}
+{"ts": 1062415573, "s": 0, "gidx": 11894, "pd": 5.09, "eye": "right"}
+2020-02-24 10:40:29.542102
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1083923082, "s": 0, "gidx": 12970, "l": 137709, "gp": [0.706, 0.8842]}
+{"ts": 1084064181, "s": 0, "gy": [0.84, -3.613, -0.068]}
+{"ts": 1084048909, "s": 0, "ac": [-0.157, -9.962, 2.506]}
+{"ts": 1083923082, "s": 0, "gidx": 12970, "pd": 5.31, "eye": "left"}
+{"ts": 1083923082, "s": 0, "gidx": 12970, "pd": 5.3, "eye": "right"}
+2020-02-24 10:40:36.916171
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1091658614, "s": 0, "gidx": 13357, "l": 142777, "gp": [0.3502, 0.1757]}
+{"ts": 1091757792, "s": 0, "gy": [0.35, -7.161, 1.509]}
+{"ts": 1091794244, "s": 0, "ac": [-0.667, -10.232, 1.104]}
+{"ts": 1091658614, "s": 0, "gidx": 13357, "pd": 5.46, "eye": "left"}
+{"ts": 1091658614, "s": 0, "gidx": 13357, "pd": 5.41, "eye": "right"}
+2020-02-24 10:40:39.049145
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1093757375, "s": 0, "gidx": 13462, "l": 105570, "gp": [0.6196, 0.7856]}
+{"ts": 1093864892, "s": 0, "gy": [2.87, -9.452, 1.603]}
+{"ts": 1093858642, "s": 0, "ac": [0.039, -9.55, 2.658]}
+{"ts": 1093737396, "s": 0, "gidx": 13461, "pd": 5.1, "eye": "left"}
+{"ts": 1093757375, "s": 0, "gidx": 13462, "pd": 5.39, "eye": "right"}
+2020-02-24 10:40:39.711181
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1094397022, "s": 0, "gidx": 13494, "l": 146435, "gp": [0.6651, 0.7766]}
+{"ts": 1094551714, "s": 0, "gy": [-1.61, -5.511, 1.019]}
+{"ts": 1094538123, "s": 0, "ac": [-0.078, -9.637, 2.921]}
+{"ts": 1094397022, "s": 0, "gidx": 13494, "pd": 5.29, "eye": "left"}
+{"ts": 1094397022, "s": 0, "gidx": 13494, "pd": 5.38, "eye": "right"}
+2020-02-24 10:40:40.807215
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1095376456, "s": 0, "gidx": 13543, "l": 151620, "gp": [0.6421, 0.7356]}
+{"ts": 1095492120, "s": 0, "gy": [-3.36, -7.019, 2.316]}
+{"ts": 1095467375, "s": 0, "ac": [-0.157, -9.734, 3.024]}
+{"ts": 1095376456, "s": 0, "gidx": 13543, "pd": 5.33, "eye": "left"}
+{"ts": 1095376456, "s": 0, "gidx": 13543, "pd": 5.33, "eye": "right"}
+2020-02-24 10:40:41.372755
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1095896140, "s": 0, "gidx": 13569, "l": 159157, "gp": [0.6467, 0.7271]}
+{"ts": 1096005701, "s": 0, "gy": [0.49, -7.428, 1.818]}
+{"ts": 1096044994, "s": 0, "ac": [-0.039, -9.762, 3.178]}
+{"ts": 1095896140, "s": 0, "gidx": 13569, "pd": 5.36, "eye": "left"}
+{"ts": 1095896140, "s": 0, "gidx": 13569, "pd": 5.45, "eye": "right"}
+2020-02-24 10:40:42.088480
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1096635704, "s": 0, "gidx": 13606, "l": 171913, "gp": [0.5893, 0.738]}
+{"ts": 1096732408, "s": 0, "gy": [-0.77, -9.29, 2.698]}
+{"ts": 1096728489, "s": 0, "ac": [-0.039, -9.607, 3.205]}
+{"ts": 1096655722, "s": 0, "gidx": 13607, "pd": 5.34, "eye": "left"}
+{"ts": 1096635704, "s": 0, "gidx": 13606, "pd": 5.47, "eye": "right"}
+2020-02-24 10:40:42.559015
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1097055480, "s": 0, "gidx": 13627, "l": 166565, "gp": [0.586, 0.7404]}
+{"ts": 1097157114, "s": 0, "gy": [-6.65, -2.976, 0.755]}
+{"ts": 1097140090, "s": 0, "ac": [-0.235, -9.698, 3.269]}
+{"ts": 1097055480, "s": 0, "gidx": 13627, "pd": 5.22, "eye": "left"}
+{"ts": 1097055480, "s": 0, "gidx": 13627, "pd": 5.34, "eye": "right"}
+2020-02-24 10:40:43.058564
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1097615166, "s": 0, "gidx": 13655, "l": 146003, "gp": [0.3447, 0.1084]}
+{"ts": 1097698368, "s": 0, "gy": [-4.13, -6.532, 0.767]}
+{"ts": 1097677406, "s": 0, "ac": [-0.588, -10.089, 1.647]}
+{"ts": 1097615166, "s": 0, "gidx": 13655, "pd": 5.12, "eye": "left"}
+{"ts": 1097515215, "s": 0, "gidx": 13650, "pd": 4.77, "eye": "right"}
+2020-02-24 10:40:44.029358
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1098634556, "s": 0, "gidx": 13706, "l": 116390, "gp": [0.3335, 0.126]}
+{"ts": 1098644760, "s": 0, "gy": [-3.15, -7.887, 1.595]}
+{"ts": 1098620788, "s": 0, "ac": [-0.706, -10.096, 1.685]}
+{"ts": 1098634556, "s": 0, "gidx": 13706, "pd": 5.14, "eye": "left"}
+{"ts": 1098354729, "s": 0, "gidx": 13692, "pd": 4.99, "eye": "right"}
+2020-02-24 10:40:44.937561
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1099534051, "s": 0, "gidx": 13751, "l": 79657, "gp": [0.6401, 0.7817]}
+{"ts": 1099619122, "s": 0, "gy": [15.26, -19.99, 4.934]}
+{"ts": 1099607957, "s": 0, "ac": [-0.549, -10.082, 2.285]}
+{"ts": 1099534051, "s": 0, "gidx": 13751, "pd": 3.34, "eye": "left"}
+{"ts": 1099474069, "s": 0, "gidx": 13748, "pd": 4.26, "eye": "right"}
+2020-02-24 10:40:45.914896
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1100573429, "s": 0, "gidx": 13803, "l": 168026, "gp": [0.5398, 0.7614]}
+{"ts": 1100657979, "s": 0, "gy": [-3.57, -5.028, 2.312]}
+{"ts": 1100641148, "s": 0, "ac": [-0.118, -9.787, 3.094]}
+{"ts": 1100573429, "s": 0, "gidx": 13803, "pd": 5.09, "eye": "left"}
+{"ts": 1100573429, "s": 0, "gidx": 13803, "pd": 5.17, "eye": "right"}
+2020-02-24 10:40:48.071234
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1102452347, "s": 0, "gidx": 13897, "l": 159408, "gp": [0.5744, 0.7549]}
+{"ts": 1102558641, "s": 0, "gy": [-0.98, -5.766, 1.258]}
+{"ts": 1102549614, "s": 0, "ac": [-0.275, -9.696, 3.03]}
+{"ts": 1102452347, "s": 0, "gidx": 13897, "pd": 5.11, "eye": "left"}
+{"ts": 1102452347, "s": 0, "gidx": 13897, "pd": 5.37, "eye": "right"}
+2020-02-24 10:40:50.777609
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1105430619, "s": 0, "gidx": 14046, "l": 179152, "gp": [0.6122, 0.7519]}
+{"ts": 1105541157, "s": 0, "gy": [-2.8, -7.315, 1.98]}
+{"ts": 1105611625, "s": 0, "ac": [-0.196, -9.639, 3.16]}
+{"ts": 1105450608, "s": 0, "gidx": 14047, "pd": 4.96, "eye": "left"}
+{"ts": 1105430619, "s": 0, "gidx": 14046, "pd": 5.22, "eye": "right"}
+2020-02-24 10:40:52.279057
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1107149612, "s": 0, "gidx": 14132, "l": 134109, "gp": [0.6522, 0.7652]}
+{"ts": 1107218718, "s": 0, "gy": [-3.71, -6.212, 2.174]}
+{"ts": 1107283025, "s": 0, "ac": [-0.235, -9.562, 3.174]}
+{"ts": 1107149612, "s": 0, "gidx": 14132, "pd": 5.15, "eye": "left"}
+{"ts": 1107149612, "s": 0, "gidx": 14132, "pd": 5.31, "eye": "right"}
+2020-02-24 10:40:53.273121
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1108069090, "s": 0, "gidx": 14178, "l": 130525, "gp": [0.6667, 0.7797]}
+{"ts": 1108100144, "s": 0, "gy": [-1.75, -5.494, 1.732]}
+{"ts": 1108078431, "s": 0, "ac": [-0.196, -9.743, 3.301]}
+{"ts": 1108069090, "s": 0, "gidx": 14178, "pd": 5.07, "eye": "left"}
+{"ts": 1108069090, "s": 0, "gidx": 14178, "pd": 5.13, "eye": "right"}
+2020-02-24 10:40:54.990208
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1109748114, "s": 0, "gidx": 14262, "l": 105798, "gp": [0.6292, 0.776]}
+{"ts": 1109717534, "s": 0, "gy": [-1.82, -4.987, 1.679]}
+{"ts": 1109844672, "s": 0, "ac": [-0.039, -9.582, 3.289]}
+{"ts": 1109748114, "s": 0, "gidx": 14262, "pd": 5.18, "eye": "left"}
+{"ts": 1109748114, "s": 0, "gidx": 14262, "pd": 5.37, "eye": "right"}
+2020-02-24 10:40:55.475706
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1110227839, "s": 0, "gidx": 14286, "l": 201482, "gp": [0.6498, 0.8363]}
+{"ts": 1110339263, "s": 0, "gy": [-3.57, -7.355, 2.612]}
+{"ts": 1110316103, "s": 0, "ac": [-0.196, -9.596, 3.367]}
+{"ts": 1110227839, "s": 0, "gidx": 14286, "pd": 5.23, "eye": "left"}
+{"ts": 1110227839, "s": 0, "gidx": 14286, "pd": 5.33, "eye": "right"}
+2020-02-24 10:40:56.140385
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1110867456, "s": 0, "gidx": 14318, "l": 169165, "gp": [0.7341, 0.6803]}
+{"ts": 1111078917, "s": 0, "gy": [-1.68, -9.363, 3.111]}
+{"ts": 1111042383, "s": 0, "ac": [-0.039, -9.493, 3.464]}
+{"ts": 1110867456, "s": 0, "gidx": 14318, "pd": 5.18, "eye": "left"}
+{"ts": 1110867456, "s": 0, "gidx": 14318, "pd": 5.26, "eye": "right"}
+2020-02-24 10:40:56.505375
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1111227249, "s": 0, "gidx": 14336, "l": 164322, "gp": [0.6821, 0.8385]}
+{"ts": 1111329442, "s": 0, "gy": [-3.15, -7.955, 3.999]}
+{"ts": 1111317943, "s": 0, "ac": [-0.078, -9.537, 3.258]}
+{"ts": 1111227249, "s": 0, "gidx": 14336, "pd": 4.87, "eye": "left"}
+{"ts": 1111227249, "s": 0, "gidx": 14336, "pd": 5.03, "eye": "right"}
+2020-02-24 10:40:57.158247
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1111826902, "s": 0, "gidx": 14366, "l": 185854, "gp": [0.5235, 0.7209]}
+{"ts": 1112026617, "s": 0, "gy": [-2.66, -8.633, 2.6]}
+{"ts": 1112007629, "s": 0, "ac": [-0.157, -9.634, 3.36]}
+{"ts": 1111826902, "s": 0, "gidx": 14366, "pd": 4.76, "eye": "left"}
+{"ts": 1111826902, "s": 0, "gidx": 14366, "pd": 4.93, "eye": "right"}
+2020-02-24 10:40:57.454791
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1112106758, "s": 0, "gidx": 14380, "l": 219505, "gp": [0.5526, 0.6174]}
+{"ts": 1112292815, "s": 0, "gy": [-1.82, -5.385, 1.112]}
+{"ts": 1112273621, "s": 0, "ac": [-0.157, -9.564, 3.412]}
+{"ts": 1112126747, "s": 0, "gidx": 14381, "pd": 4.98, "eye": "left"}
+{"ts": 1112126747, "s": 0, "gidx": 14381, "pd": 5.06, "eye": "right"}
+2020-02-24 10:40:58.030357
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1112666413, "s": 0, "gidx": 14408, "l": 146544, "gp": [0.5581, 0.5886]}
+{"ts": 1112718161, "s": 0, "gy": [-1.75, -7.741, 1.976]}
+{"ts": 1112688763, "s": 0, "ac": [-0.078, -9.505, 3.303]}
+{"ts": 1112686430, "s": 0, "gidx": 14409, "pd": 5.27, "eye": "left"}
+{"ts": 1112666413, "s": 0, "gidx": 14408, "pd": 5.35, "eye": "right"}
+2020-02-24 10:40:58.358639
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1112946268, "s": 0, "gidx": 14422, "l": 124960, "gp": [0.6246, 0.6701]}
+{"ts": 1112972474, "s": 0, "gy": [-2.17, -5.993, 0.933]}
+{"ts": 1112955458, "s": 0, "ac": [-0.157, -9.582, 3.289]}
+{"ts": 1112946268, "s": 0, "gidx": 14422, "pd": 5.42, "eye": "left"}
+{"ts": 1112946268, "s": 0, "gidx": 14422, "pd": 5.55, "eye": "right"}
+2020-02-24 10:40:59.334049
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1113885703, "s": 0, "gidx": 14469, "l": 177163, "gp": [0.6605, 0.6516]}
+{"ts": 1113960136, "s": 0, "gy": [-2.1, -6.889, 1.984]}
+{"ts": 1113938413, "s": 0, "ac": [-0.118, -9.596, 3.367]}
+{"ts": 1113905714, "s": 0, "gidx": 14470, "pd": 4.89, "eye": "left"}
+{"ts": 1113885703, "s": 0, "gidx": 14469, "pd": 4.95, "eye": "right"}
+2020-02-24 10:41:00.217889
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1114765214, "s": 0, "gidx": 14513, "l": 89858, "gp": [0.3602, 0.1393]}
+{"ts": 1114748721, "s": 0, "gy": [-36.05, 25.906, -6.236]}
+{"ts": 1114745502, "s": 0, "ac": [-0.549, -9.584, 2.174]}
+{"ts": 1114765214, "s": 0, "gidx": 14513, "pd": 4.85, "eye": "left"}
+{"ts": 1114765214, "s": 0, "gidx": 14513, "pd": 5.21, "eye": "right"}
+2020-02-24 10:41:02.271704
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1116764032, "s": 0, "gidx": 14613, "l": 147772, "gp": [0.4851, 0.2266]}
+{"ts": 1116918696, "s": 0, "gy": [-8.61, -2.571, -4.363]}
+{"ts": 1116904163, "s": 0, "ac": [-0.471, -9.944, 0.597]}
+{"ts": 1116784043, "s": 0, "gidx": 14614, "pd": 5.13, "eye": "left"}
+{"ts": 1116764032, "s": 0, "gidx": 14613, "pd": 5.69, "eye": "right"}
+2020-02-24 10:41:04.150288
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1118682920, "s": 0, "gidx": 14709, "l": 182070, "gp": [0.4624, 0.2132]}
+{"ts": 1118805467, "s": 0, "gy": [-3.5, -4.331, 1.582]}
+{"ts": 1118787169, "s": 0, "ac": [-0.235, -10.444, 0.27]}
+{"ts": 1118702929, "s": 0, "gidx": 14710, "pd": 5.54, "eye": "left"}
+{"ts": 1118682920, "s": 0, "gidx": 14709, "pd": 6.01, "eye": "right"}
+2020-02-24 10:41:05.512276
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1120022166, "s": 0, "gidx": 14776, "l": 374165, "gp": [0.4896, 0.2955]}
+{"ts": 1120362789, "s": 0, "gy": [-0.98, -5.077, 0.171]}
+{"ts": 1120346865, "s": 0, "ac": [-0.196, -10.257, 0.342]}
+{"ts": 1120022166, "s": 0, "gidx": 14776, "pd": 5.71, "eye": "left"}
+{"ts": 1120022166, "s": 0, "gidx": 14776, "pd": 5.89, "eye": "right"}
+2020-02-24 10:41:06.209929
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1120941610, "s": 0, "gidx": 14822, "l": 139170, "gp": [0.78, 0.9005]}
+{"ts": 1121022190, "s": 0, "gy": [-7.35, -26.158, 7.258]}
+{"ts": 1121005616, "s": 0, "ac": [-0.863, -11.018, 1.722]}
+{"ts": 1120961595, "s": 0, "gidx": 14823, "pd": 5.98, "eye": "left"}
+{"ts": 1120941610, "s": 0, "gidx": 14822, "pd": 6.11, "eye": "right"}
+2020-02-24 10:41:07.363133
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1122100948, "s": 0, "gidx": 14880, "l": 161167, "gp": [0.4665, 0.2406]}
+{"ts": 1122130895, "s": 0, "gy": [-1.19, -7.023, 0.325]}
+{"ts": 1122215215, "s": 0, "ac": [0.0, -10.507, 0.856]}
+{"ts": 1122100948, "s": 0, "gidx": 14880, "pd": 5.47, "eye": "left"}
+{"ts": 1122100948, "s": 0, "gidx": 14880, "pd": 5.83, "eye": "right"}
+2020-02-24 10:41:07.851972
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1122580669, "s": 0, "gidx": 14904, "l": 124805, "gp": [0.4596, 0.2243]}
+{"ts": 1122641779, "s": 0, "gy": [-1.26, -6.111, 2.405]}
+{"ts": 1122697385, "s": 0, "ac": [-0.196, -10.275, 0.897]}
+{"ts": 1122580669, "s": 0, "gidx": 14904, "pd": 5.7, "eye": "left"}
+{"ts": 1122580669, "s": 0, "gidx": 14904, "pd": 6.08, "eye": "right"}
+2020-02-24 10:41:08.677049
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1123300252, "s": 0, "gidx": 14940, "l": 148234, "gp": [0.4676, 0.2228]}
+{"ts": 1123474387, "s": 0, "gy": [-0.35, -12.639, 2.747]}
+{"ts": 1123435858, "s": 0, "ac": [-0.078, -10.444, 0.27]}
+{"ts": 1123300252, "s": 0, "gidx": 14940, "pd": 5.77, "eye": "left"}
+{"ts": 1123300252, "s": 0, "gidx": 14940, "pd": 5.9, "eye": "right"}
+2020-02-24 10:41:09.930900
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1124419594, "s": 0, "gidx": 14996, "l": 118736, "gp": [0.4441, 0.1737]}
+{"ts": 1124406262, "s": 0, "gy": [0.49, -7.522, 1.943]}
+{"ts": 1124532216, "s": 0, "ac": [0.0, -10.432, 0.431]}
+{"ts": 1124419594, "s": 0, "gidx": 14996, "pd": 5.79, "eye": "left"}
+{"ts": 1124419594, "s": 0, "gidx": 14996, "pd": 6.02, "eye": "right"}
+2020-02-24 10:41:13.878787
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1128457261, "s": 0, "gidx": 15198, "l": 134078, "gp": [0.4639, 0.229]}
+{"ts": 1128504558, "s": 0, "gy": [-2.1, -7.623, 0.504]}
+{"ts": 1128493692, "s": 0, "ac": [0.0, -10.41, 0.076]}
+{"ts": 1128457261, "s": 0, "gidx": 15198, "pd": 6.19, "eye": "left"}
+{"ts": 1128457261, "s": 0, "gidx": 15198, "pd": 6.26, "eye": "right"}
+2020-02-24 10:41:17.776036
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1132494894, "s": 0, "gidx": 15400, "l": 173288, "gp": [0.4223, 0.1944]}
+{"ts": 1132628886, "s": 0, "gy": [-1.75, -6.135, 2.543]}
+{"ts": 1132610498, "s": 0, "ac": [0.039, -10.369, 0.522]}
+{"ts": 1132494894, "s": 0, "gidx": 15400, "pd": 5.73, "eye": "left"}
+{"ts": 1132494894, "s": 0, "gidx": 15400, "pd": 6.39, "eye": "right"}
+2020-02-24 10:41:19.577702
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1134473769, "s": 0, "gidx": 15499, "l": 96726, "gp": [0.4718, 0.1944]}
+{"ts": 1134530718, "s": 0, "gy": [-3.64, -6.711, 1.376]}
+{"ts": 1134521773, "s": 0, "ac": [0.039, -10.289, 0.297]}
+{"ts": 1134473769, "s": 0, "gidx": 15499, "pd": 5.87, "eye": "left"}
+{"ts": 1134473769, "s": 0, "gidx": 15499, "pd": 6.07, "eye": "right"}
+2020-02-24 10:41:20.179648
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1135033421, "s": 0, "gidx": 15527, "l": 190059, "gp": [0.4838, 0.2112]}
+{"ts": 1135232090, "s": 0, "gy": [-3.29, -8.9, 2.909]}
+{"ts": 1135218020, "s": 0, "ac": [0.118, -10.257, 0.342]}
+{"ts": 1135053432, "s": 0, "gidx": 15528, "pd": 5.8, "eye": "left"}
+{"ts": 1135033421, "s": 0, "gidx": 15527, "pd": 5.94, "eye": "right"}
+2020-02-24 10:41:21.804050
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1136472618, "s": 0, "gidx": 15599, "l": 136573, "gp": [0.4436, 0.1882]}
+{"ts": 1136521181, "s": 0, "gy": [-7.0, -6.804, 0.293]}
+{"ts": 1136479094, "s": 0, "ac": [0.0, -10.464, 0.385]}
+{"ts": 1136492599, "s": 0, "gidx": 15600, "pd": 5.89, "eye": "left"}
+{"ts": 1136472618, "s": 0, "gidx": 15599, "pd": 6.16, "eye": "right"}
+2020-02-24 10:41:23.345782
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1137951748, "s": 0, "gidx": 15673, "l": 156803, "gp": [0.434, 0.1662]}
+{"ts": 1138109719, "s": 0, "gy": [-1.47, -10.003, 1.506]}
+{"ts": 1138104559, "s": 0, "ac": [0.0, -10.25, 0.304]}
+{"ts": 1137951748, "s": 0, "gidx": 15673, "pd": 5.79, "eye": "left"}
+{"ts": 1137951748, "s": 0, "gidx": 15673, "pd": 6.21, "eye": "right"}
+2020-02-24 10:41:24.736635
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1139510847, "s": 0, "gidx": 15751, "l": 162859, "gp": [0.4397, 0.227]}
+{"ts": 1139616156, "s": 0, "gy": [-0.98, -7.084, 1.878]}
+{"ts": 1139599848, "s": 0, "ac": [-0.078, -10.323, 0.49]}
+{"ts": 1139530822, "s": 0, "gidx": 15752, "pd": 6.21, "eye": "left"}
+{"ts": 1139510847, "s": 0, "gidx": 15751, "pd": 6.42, "eye": "right"}
+2020-02-24 10:41:25.016291
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1139810653, "s": 0, "gidx": 15766, "l": 144425, "gp": [0.4384, 0.2194]}
+{"ts": 1139892618, "s": 0, "gy": [-2.52, -8.483, 3.764]}
+{"ts": 1139876729, "s": 0, "ac": [0.118, -10.439, 0.47]}
+{"ts": 1139810653, "s": 0, "gidx": 15766, "pd": 6.12, "eye": "left"}
+{"ts": 1139810653, "s": 0, "gidx": 15766, "pd": 6.33, "eye": "right"}
+2020-02-24 10:41:25.449644
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1140130474, "s": 0, "gidx": 15782, "l": 241474, "gp": [0.4421, 0.2253]}
+{"ts": 1140274697, "s": 0, "gy": [-4.13, -8.195, 1.327]}
+{"ts": 1140261822, "s": 0, "ac": [-0.039, -10.355, 0.445]}
+{"ts": 1140130474, "s": 0, "gidx": 15782, "pd": 6.1, "eye": "left"}
+{"ts": 1140130474, "s": 0, "gidx": 15782, "pd": 6.34, "eye": "right"}
+2020-02-24 10:41:25.679287
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1140330368, "s": 0, "gidx": 15792, "l": 217422, "gp": [0.4387, 0.2203]}
+{"ts": 1140571320, "s": 0, "gy": [-2.59, -6.901, 2.053]}
+{"ts": 1140538106, "s": 0, "ac": [0.0, -10.198, 0.233]}
+{"ts": 1140330368, "s": 0, "gidx": 15792, "pd": 6.1, "eye": "left"}
+{"ts": 1140330368, "s": 0, "gidx": 15792, "pd": 6.38, "eye": "right"}
+2020-02-24 10:41:26.270569
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1140890026, "s": 0, "gidx": 15820, "l": 187488, "gp": [0.4396, 0.171]}
+{"ts": 1140969593, "s": 0, "gy": [-4.76, -8.11, -0.364]}
+{"ts": 1141058041, "s": 0, "ac": [0.118, -10.223, 0.149]}
+{"ts": 1140890026, "s": 0, "gidx": 15820, "pd": 5.83, "eye": "left"}
+{"ts": 1140910013, "s": 0, "gidx": 15821, "pd": 6.29, "eye": "right"}
+2020-02-24 10:41:26.651356
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1141189870, "s": 0, "gidx": 15835, "l": 218943, "gp": [0.7995, 0.1035]}
+{"ts": 1141375488, "s": 0, "gy": [-5.88, -8.552, 2.544]}
+{"ts": 1141351352, "s": 0, "ac": [0.039, -10.36, 0.245]}
+{"ts": 1141189870, "s": 0, "gidx": 15835, "pd": 6.25, "eye": "left"}
+{"ts": 1141189870, "s": 0, "gidx": 15835, "pd": 5.3, "eye": "right"}
+2020-02-24 10:41:27.506326
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1142029381, "s": 0, "gidx": 15877, "l": 113349, "gp": [0.4504, 0.2431]}
+{"ts": 1142045804, "s": 0, "gy": [5.04, -6.131, -0.299]}
+{"ts": 1142029025, "s": 0, "ac": [0.118, -10.235, -0.012]}
+{"ts": 1142029381, "s": 0, "gidx": 15877, "pd": 6.28, "eye": "left"}
+{"ts": 1142029381, "s": 0, "gidx": 15877, "pd": 6.62, "eye": "right"}
+2020-02-24 10:41:29.304042
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1143888286, "s": 0, "gidx": 15970, "l": 151875, "gp": [0.4346, 0.174]}
+{"ts": 1143931605, "s": 0, "gy": [-2.59, -8.381, 2.787]}
+{"ts": 1143912844, "s": 0, "ac": [0.118, -10.282, 0.258]}
+{"ts": 1143888286, "s": 0, "gidx": 15970, "pd": 5.93, "eye": "left"}
+{"ts": 1143888286, "s": 0, "gidx": 15970, "pd": 6.22, "eye": "right"}
+2020-02-24 10:41:30.850695
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1145467366, "s": 0, "gidx": 16049, "l": 143473, "gp": [0.7509, 0.86]}
+{"ts": 1145644967, "s": 0, "gy": [-3.71, -11.296, 5.614]}
+{"ts": 1145606287, "s": 0, "ac": [-0.235, -10.739, 1.492]}
+{"ts": 1145487376, "s": 0, "gidx": 16050, "pd": 5.96, "eye": "left"}
+{"ts": 1145467366, "s": 0, "gidx": 16049, "pd": 6.45, "eye": "right"}
+2020-02-24 10:41:31.906671
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1146526755, "s": 0, "gidx": 16102, "l": 115029, "gp": [0.4165, 0.1184]}
+{"ts": 1146562046, "s": 0, "gy": [-3.01, -3.321, 0.694]}
+{"ts": 1146554344, "s": 0, "ac": [0.039, -10.175, 1.233]}
+{"ts": 1146546739, "s": 0, "gidx": 16103, "pd": 5.42, "eye": "left"}
+{"ts": 1146526755, "s": 0, "gidx": 16102, "pd": 5.7, "eye": "right"}
+2020-02-24 10:41:33.468448
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1148105837, "s": 0, "gidx": 16181, "l": 107389, "gp": [0.4447, 0.1192]}
+{"ts": 1148100915, "s": 0, "gy": [-3.5, -6.909, 1.696]}
+{"ts": 1148066871, "s": 0, "ac": [0.078, -10.198, 0.91]}
+{"ts": 1148105837, "s": 0, "gidx": 16181, "pd": 5.49, "eye": "left"}
+{"ts": 1148105837, "s": 0, "gidx": 16181, "pd": 5.56, "eye": "right"}
+2020-02-24 10:41:34.599942
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1149145240, "s": 0, "gidx": 16233, "l": 111351, "gp": [0.4741, 0.1393]}
+{"ts": 1149211700, "s": 0, "gy": [-5.6, -7.684, 2.057]}
+{"ts": 1149200303, "s": 0, "ac": [0.078, -10.371, 0.76]}
+{"ts": 1149145240, "s": 0, "gidx": 16233, "pd": 5.75, "eye": "left"}
+{"ts": 1149145240, "s": 0, "gidx": 16233, "pd": 5.63, "eye": "right"}
+2020-02-24 10:41:36.193304
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1150564420, "s": 0, "gidx": 16304, "l": 175966, "gp": [0.4803, 0.1759]}
+{"ts": 1150660591, "s": 0, "gy": [-3.29, -8.231, 1.534]}
+{"ts": 1150646252, "s": 0, "ac": [0.0, -10.369, 0.522]}
+{"ts": 1150564420, "s": 0, "gidx": 16304, "pd": 5.73, "eye": "left"}
+{"ts": 1150564420, "s": 0, "gidx": 16304, "pd": 5.48, "eye": "right"}
+2020-02-24 10:41:44.308092
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1158899601, "s": 0, "gidx": 16721, "l": 146236, "gp": [0.4757, 0.1412]}
+{"ts": 1158947348, "s": 0, "gy": [-3.22, -7.692, 1.7]}
+{"ts": 1158925839, "s": 0, "ac": [0.157, -10.3, 0.813]}
+{"ts": 1158899601, "s": 0, "gidx": 16721, "pd": 5.79, "eye": "left"}
+{"ts": 1158899601, "s": 0, "gidx": 16721, "pd": 5.64, "eye": "right"}
+2020-02-24 10:41:57.105027
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1171692130, "s": 0, "gidx": 17361, "l": 92324, "gp": [0.4704, 0.1676]}
+{"ts": 1171673285, "s": 0, "gy": [-3.78, -9.042, 3.31]}
+{"ts": 1171649233, "s": 0, "ac": [-0.196, -10.339, 0.129]}
+{"ts": 1171692130, "s": 0, "gidx": 17361, "pd": 6.31, "eye": "left"}
+{"ts": 1171692130, "s": 0, "gidx": 17361, "pd": 5.85, "eye": "right"}
+2020-02-24 10:41:59.824186
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1174330595, "s": 0, "gidx": 17493, "l": 118471, "gp": [0.4804, 0.1492]}
+{"ts": 1174355153, "s": 0, "gy": [-1.89, -8.714, 2.657]}
+{"ts": 1174330512, "s": 0, "ac": [-0.039, -10.407, 0.515]}
+{"ts": 1174330595, "s": 0, "gidx": 17493, "pd": 6.26, "eye": "left"}
+{"ts": 1174330595, "s": 0, "gidx": 17493, "pd": 6.14, "eye": "right"}
+2020-02-24 10:42:03.851979
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1178548140, "s": 0, "gidx": 17704, "l": 170945, "gp": [0.4205, 0.1692]}
+{"ts": 1178725357, "s": 0, "gy": [-6.86, -1.792, 2.101]}
+{"ts": 1178711693, "s": 0, "ac": [-0.353, -10.471, 0.424]}
+{"ts": 1178548140, "s": 0, "gidx": 17704, "pd": 5.95, "eye": "left"}
+{"ts": 1178548140, "s": 0, "gidx": 17704, "pd": 6.16, "eye": "right"}
+2020-02-24 10:42:05.061745
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1179867375, "s": 0, "gidx": 17770, "l": 117518, "gp": [0.482, 0.1562]}
+{"ts": 1179936613, "s": 0, "gy": [-3.85, -8.88, 4.405]}
+{"ts": 1179977125, "s": 0, "ac": [-0.275, -10.305, 0.613]}
+{"ts": 1179867375, "s": 0, "gidx": 17770, "pd": 6.51, "eye": "left"}
+{"ts": 1179867375, "s": 0, "gidx": 17770, "pd": 5.83, "eye": "right"}
+2020-02-24 10:42:05.348972
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1180027305, "s": 0, "gidx": 17778, "l": 353523, "gp": [0.496, 0.1643]}
+{"ts": 1180389445, "s": 0, "gy": [-3.85, -9.411, 3.387]}
+{"ts": 1180381073, "s": 0, "ac": [-0.157, -10.355, 0.445]}
+{"ts": 1180027305, "s": 0, "gidx": 17778, "pd": 6.54, "eye": "left"}
+{"ts": 1180027305, "s": 0, "gidx": 17778, "pd": 5.6, "eye": "right"}
+2020-02-24 10:42:05.956273
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1180646940, "s": 0, "gidx": 17809, "l": 170198, "gp": [0.2582, 0.0959]}
+{"ts": 1180831098, "s": 0, "gy": [4.06, -7.656, -0.923]}
+{"ts": 1180811655, "s": 0, "ac": [-0.588, -9.989, 0.629]}
+{"ts": 1180646940, "s": 0, "gidx": 17809, "pd": 5.86, "eye": "left"}
+{"ts": 1180646940, "s": 0, "gidx": 17809, "pd": 3.45, "eye": "right"}
+2020-02-24 10:42:08.046987
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1182685758, "s": 0, "gidx": 17911, "l": 89205, "gp": [0.1647, 0.8096]}
+{"ts": 1182798401, "s": 0, "gy": [1.61, -5.195, -3.191]}
+{"ts": 1182776599, "s": 0, "ac": [-1.373, -10.196, -0.005]}
+{"ts": 1182745704, "s": 0, "gidx": 17914, "pd": 6.25, "eye": "left"}
+{"ts": 1182725727, "s": 0, "gidx": 17913, "pd": 4.58, "eye": "right"}
+2020-02-24 10:42:08.980150
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1183665181, "s": 0, "gidx": 17960, "l": 148142, "gp": [0.4618, 0.2237]}
+{"ts": 1183754800, "s": 0, "gy": [-2.59, -16.37, -1.891]}
+{"ts": 1183734605, "s": 0, "ac": [-0.981, -10.221, -0.089]}
+{"ts": 1183685169, "s": 0, "gidx": 17961, "pd": 6.49, "eye": "left"}
+{"ts": 1183665181, "s": 0, "gidx": 17960, "pd": 5.4, "eye": "right"}
+2020-02-24 10:42:10.360567
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1184764542, "s": 0, "gidx": 18015, "l": 137832, "gp": [0.5604, 0.1424]}
+{"ts": 1185123375, "s": 0, "gy": [-2.59, -8.268, 1.741]}
+{"ts": 1185112450, "s": 0, "ac": [-1.138, -10.232, -0.251]}
+{"ts": 1184804509, "s": 0, "gidx": 18017, "pd": 5.13, "eye": "left"}
+{"ts": 1184804509, "s": 0, "gidx": 18017, "pd": 4.53, "eye": "right"}
+2020-02-24 10:42:11.066298
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1185703999, "s": 0, "gidx": 18062, "l": 121379, "gp": [0.6786, 0.0135]}
+{"ts": 1185793457, "s": 0, "gy": [1.12, -7.182, -1.195]}
+{"ts": 1185784461, "s": 0, "ac": [-0.785, -10.325, 0.051]}
+{"ts": 1185723988, "s": 0, "gidx": 18063, "pd": 6.58, "eye": "left"}
+{"ts": 1185703999, "s": 0, "gidx": 18062, "pd": 5.6, "eye": "right"}
+2020-02-24 10:42:12.159554
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1186623447, "s": 0, "gidx": 18108, "l": 145779, "gp": [0.5261, 0.241]}
+{"ts": 1186737488, "s": 0, "gy": [-2.38, -8.296, 1.096]}
+{"ts": 1186759744, "s": 0, "ac": [-0.902, -10.448, 0.07]}
+{"ts": 1186643434, "s": 0, "gidx": 18109, "pd": 6.61, "eye": "left"}
+{"ts": 1186623447, "s": 0, "gidx": 18108, "pd": 6.07, "eye": "right"}
+2020-02-24 10:42:12.879078
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1187363013, "s": 0, "gidx": 18145, "l": 118005, "gp": [0.5494, 0.2082]}
+{"ts": 1187439761, "s": 0, "gy": [-3.36, -5.88, -1.321]}
+{"ts": 1187423316, "s": 0, "ac": [-0.628, -10.357, 0.006]}
+{"ts": 1187363013, "s": 0, "gidx": 18145, "pd": 6.69, "eye": "left"}
+{"ts": 1187363013, "s": 0, "gidx": 18145, "pd": 5.94, "eye": "right"}
+2020-02-24 10:42:26.243020
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1200775234, "s": 0, "gidx": 18816, "l": 180759, "gp": [0.5351, 0.1691]}
+{"ts": 1200926993, "s": 0, "gy": [0.49, -8.985, 4.6]}
+{"ts": 1200900785, "s": 0, "ac": [0.235, -10.546, 0.172]}
+{"ts": 1200795222, "s": 0, "gidx": 18817, "pd": 6.61, "eye": "left"}
+{"ts": 1200775234, "s": 0, "gidx": 18816, "pd": 5.13, "eye": "right"}
+2020-02-24 10:42:29.907360
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1204233203, "s": 0, "gidx": 18989, "l": 137188, "gp": [0.5937, 0.2168]}
+{"ts": 1204299308, "s": 0, "gy": [-3.08, -10.024, 2.426]}
+{"ts": 1204277050, "s": 0, "ac": [0.431, -11.107, 0.192]}
+{"ts": 1204253214, "s": 0, "gidx": 18990, "pd": 6.72, "eye": "left"}
+{"ts": 1204233203, "s": 0, "gidx": 18989, "pd": 5.71, "eye": "right"}
+2020-02-24 10:42:40.674700
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1215186838, "s": 0, "gidx": 19537, "l": 192922, "gp": [0.5273, 0.1968]}
+{"ts": 1215285972, "s": 0, "gy": [0.84, -14.151, 3.262]}
+{"ts": 1215270115, "s": 0, "ac": [0.314, -10.248, 0.065]}
+{"ts": 1215186838, "s": 0, "gidx": 19537, "pd": 6.63, "eye": "left"}
+{"ts": 1215186838, "s": 0, "gidx": 19537, "pd": 5.62, "eye": "right"}
+2020-02-24 10:42:45.864642
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1220463775, "s": 0, "gidx": 19801, "l": 241608, "gp": [0.5788, 0.1516]}
+{"ts": 1220716206, "s": 0, "gy": [-3.29, -11.431, 2.747]}
+{"ts": 1220701361, "s": 0, "ac": [0.392, -10.555, -0.228]}
+{"ts": 1220463775, "s": 0, "gidx": 19801, "pd": 6.52, "eye": "left"}
+{"ts": 1220463775, "s": 0, "gidx": 19801, "pd": 5.68, "eye": "right"}
+2020-02-24 10:42:53.023788
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1227579635, "s": 0, "gidx": 20157, "l": 165421, "gp": [0.5101, 0.0997]}
+{"ts": 1227620862, "s": 0, "gy": [-8.05, -8.377, 1.153]}
+{"ts": 1227610251, "s": 0, "ac": [-0.078, -10.223, 1.503]}
+{"ts": 1227579635, "s": 0, "gidx": 20157, "pd": 5.42, "eye": "left"}
+{"ts": 1227579635, "s": 0, "gidx": 20157, "pd": 5.34, "eye": "right"}
+2020-02-24 10:42:54.860186
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1229478506, "s": 0, "gidx": 20252, "l": 181528, "gp": [0.5811, 0.6212]}
+{"ts": 1229582517, "s": 0, "gy": [14.84, -89.548, -8.54]}
+{"ts": 1229558824, "s": 0, "ac": [0.0, -8.937, 0.535]}
+{"ts": 1229478506, "s": 0, "gidx": 20252, "pd": 6.03, "eye": "left"}
+{"ts": 1229478506, "s": 0, "gidx": 20252, "pd": 5.44, "eye": "right"}
+2020-02-24 10:42:56.225066
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1230957636, "s": 0, "gidx": 20326, "l": 239965, "gp": [0.5725, 0.702]}
+{"ts": 1231136107, "s": 0, "gy": [0.91, -3.459, -0.539]}
+{"ts": 1231125385, "s": 0, "ac": [-1.059, -9.316, 3.814]}
+{"ts": 1230977625, "s": 0, "gidx": 20327, "pd": 5.75, "eye": "left"}
+{"ts": 1230957636, "s": 0, "gidx": 20326, "pd": 5.9, "eye": "right"}
+2020-02-24 10:42:56.937234
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1231697234, "s": 0, "gidx": 20363, "l": 235169, "gp": [0.5119, 0.5858]}
+{"ts": 1231844099, "s": 0, "gy": [-4.34, -6.468, 1.205]}
+{"ts": 1231827521, "s": 0, "ac": [-0.785, -9.212, 3.673]}
+{"ts": 1231717215, "s": 0, "gidx": 20364, "pd": 5.56, "eye": "left"}
+{"ts": 1231717215, "s": 0, "gidx": 20364, "pd": 5.65, "eye": "right"}
+2020-02-24 10:42:58.123491
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1232856544, "s": 0, "gidx": 20421, "l": 174339, "gp": [0.5654, 0.5533]}
+{"ts": 1232990733, "s": 0, "gy": [-4.06, -12.599, -0.302]}
+{"ts": 1232965770, "s": 0, "ac": [-0.941, -9.389, 4.001]}
+{"ts": 1232856544, "s": 0, "gidx": 20421, "pd": 5.75, "eye": "left"}
+{"ts": 1232856544, "s": 0, "gidx": 20421, "pd": 5.91, "eye": "right"}
+2020-02-24 10:42:58.827497
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1233516140, "s": 0, "gidx": 20454, "l": 144962, "gp": [0.6482, 0.611]}
+{"ts": 1233674705, "s": 0, "gy": [-4.9, -5.592, 1.075]}
+{"ts": 1233654467, "s": 0, "ac": [-0.51, -9.3, 3.498]}
+{"ts": 1233536158, "s": 0, "gidx": 20455, "pd": 5.73, "eye": "left"}
+{"ts": 1233516140, "s": 0, "gidx": 20454, "pd": 5.74, "eye": "right"}
+2020-02-24 10:43:00.152581
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1234675479, "s": 0, "gidx": 20512, "l": 143490, "gp": [0.5918, 0.6206]}
+{"ts": 1234766732, "s": 0, "gy": [-3.01, -1.995, 0.43]}
+{"ts": 1234761457, "s": 0, "ac": [-0.785, -9.314, 3.576]}
+{"ts": 1234695467, "s": 0, "gidx": 20513, "pd": 5.57, "eye": "left"}
+{"ts": 1234675479, "s": 0, "gidx": 20512, "pd": 5.66, "eye": "right"}
+2020-02-24 10:43:00.995603
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1235495015, "s": 0, "gidx": 20553, "l": 165354, "gp": [0.5999, 0.6473]}
+{"ts": 1235610038, "s": 0, "gy": [-0.84, -7.712, 2.621]}
+{"ts": 1235593006, "s": 0, "ac": [-0.785, -9.491, 3.226]}
+{"ts": 1235495015, "s": 0, "gidx": 20553, "pd": 5.36, "eye": "left"}
+{"ts": 1235495015, "s": 0, "gidx": 20553, "pd": 5.55, "eye": "right"}
+2020-02-24 10:43:08.433923
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1242750781, "s": 0, "gidx": 20906, "l": 131787, "gp": [0.1657, 0.0006]}
+{"ts": 1242837122, "s": 0, "gy": [-3.43, -6.395, 0.792]}
+{"ts": 1242854583, "s": 0, "ac": [-0.824, -9.918, 2.035]}
+{"ts": 1242830715, "s": 0, "gidx": 20910, "pd": 5.96, "eye": "left"}
+{"ts": 1242830715, "s": 0, "gidx": 20910, "pd": 4.38, "eye": "right"}
+2020-02-24 10:43:35.564750
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1269854992, "s": 0, "gidx": 22262, "l": 136890, "gp": [0.5827, 0.6915]}
+{"ts": 1269952847, "s": 0, "gy": [-2.24, -5.985, 1.29]}
+{"ts": 1269933671, "s": 0, "ac": [-0.745, -9.112, 4.01]}
+{"ts": 1269874981, "s": 0, "gidx": 22263, "pd": 5.28, "eye": "left"}
+{"ts": 1269854992, "s": 0, "gidx": 22262, "pd": 5.41, "eye": "right"}
+2020-02-24 10:43:35.846638
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1269854992, "s": 0, "gidx": 22262, "l": 136890, "gp": [0.5827, 0.6915]}
+{"ts": 1269952847, "s": 0, "gy": [-2.24, -5.985, 1.29]}
+{"ts": 1269933671, "s": 0, "ac": [-0.745, -9.112, 4.01]}
+{"ts": 1269874981, "s": 0, "gidx": 22263, "pd": 5.28, "eye": "left"}
+{"ts": 1269854992, "s": 0, "gidx": 22262, "pd": 5.41, "eye": "right"}
+2020-02-24 10:43:36.022763
+{"focus": {"screen": {"gaze_focused": false, "probability": -1.0}, "tablet": {"gaze_focused": false, "probability": -1.0}, "robot": {"gaze_focused": false, "probability": -1.0}}}
+{"ts": 1269854992, "s": 0, "gidx": 22262, "l": 136890, "gp": [0.5827, 0.6915]}
+{"ts": 1269952847, "s": 0, "gy": [-2.24, -5.985, 1.29]}
+{"ts": 1269933671, "s": 0, "ac": [-0.745, -9.112, 4.01]}
+{"ts": 1269874981, "s": 0, "gidx": 22263, "pd": 5.28, "eye": "left"}
+{"ts": 1269854992, "s": 0, "gidx": 22262, "pd": 5.41, "eye": "right"}
