@@ -9,9 +9,7 @@ To get started, please first clone the repo to a local repository.
 
 Please menualy copy all the content in the tobii folder that you want to analyze to the `./tobii_file` file.
 
-First, we need to use `tobii_preprocessing.py` script in the folder glassesCalibration.
-
-To do this, we have to firs preprocess the data
+Then we need to use `tobii_preprocessing.py` script in the folder glassesCalibration to preprocess the data stored in ./tobii_file folder
 
 `python ./PreprocessingKit/glassesCalibration/gazeMappingPipeline/tobii_preprocessing.py ../../../tobii_file/ ../../../data`
 
