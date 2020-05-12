@@ -1,7 +1,7 @@
 This repo is used to store all the packages need to automaticly process a tobii folder.
 
 ### Getting Started
-To get start, please first clone the repo to a local repository.
+To get started, please first clone the repo to a local repository.
 
 `git clone https://github.com/gaoyuankidult/adaptive-map-game.git`
 
